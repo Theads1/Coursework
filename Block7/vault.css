@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    padding-top: 16%;
+    font-family:monospace
+
+}
+h1,div{
+    text-align: center;
+    color: limegreen;
+}
+p{
+    text-decoration-line: underline;
+}
+ol{
+    padding-left: 35%;
+    padding-right: 35%;
+}

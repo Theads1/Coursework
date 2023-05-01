@@ -1,0 +1,32 @@
+img {
+    width: 500px;
+    padding: 1% 1%;
+    margin-left: 10%;
+    border: 1px
+}
+
+ol,
+ul {
+    border: #303c6c 6px solid;
+    padding-left: 10%;
+    padding-right: 6%;
+    font-style: italic;
+    font-stretch: extra-expanded;
+    text-align: left;
+}
+
+h3 {
+    font-weight: bolder;
+    color: #b23850;
+    text-decoration-line: underline;
+}
+
+.walmart {
+    display: flex;
+    background-color: #daad86;
+}
+
+.publix {
+    display: flex;
+    background-color: #daad86;
+}
